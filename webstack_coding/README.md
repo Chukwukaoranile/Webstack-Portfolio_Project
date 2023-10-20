@@ -46,8 +46,9 @@ Alongside your project presentation, we require a short video demo, no longer th
 
 We’ve created a tutorial video to inspire you with our expectations. Think of it as an inspirational tool, not a strict template, designed to help you effectively showcase your brilliant work. Your creativity and individual touch will make your demo even more engaging.
 
+[![ALX SE Portfolio Project Demo   Cohort 7](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PWsDWYTOW2U" title="ALX SE Portfolio Project Demo   Cohort 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 A few points to consider while preparing your video:
 
@@ -74,4 +75,4 @@ Happy building,
 #advanced
 
 
-The complexity, quality and curiosity that you put in your project is important - go beyond your limit and surprise us!
+The complexity, quality and curiosity that you put in your project is important - go beyond your limit and surprise d m	
